@@ -1,3 +1,4 @@
-This app utilizes the Knoema Real Estate Data Atlas from Snowflake Marketplace to allow users to compare the average single-family residence values and average rent (for all homes plus multi-family) between two cities in the United States for the past 12 months.  
+- The app utilizes the [Knoema Real Estate Data Atlas from Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZSTZ491W11/knoema-real-estate-data-atlas) to allow users to compare the average single-family residence values and average rent (for all homes plus multi-family) between two cities in the United States for the past 12 months.  
 
-Reference blog [Building a Real Estate App with Snowflake Native App Framework](https://medium.com/snowflake/building-a-real-estate-app-with-snowflake-native-app-framework-68ee5d5ffe9a).
+  - Reference blog [Building a Real Estate App with Snowflake Native App Framework](https://medium.com/snowflake/building-a-real-estate-app-with-snowflake-native-app-framework-68ee5d5ffe9a)
+  - The app also uses [Census and neighborhood data from Safegraph on Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZSNZ2UNN0/safegraph-us-open-census-data-neighborhood-insights-free-dataset) to present overlay analytics for a comparative view

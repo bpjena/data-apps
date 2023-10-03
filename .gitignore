@@ -1,0 +1,42 @@
+# python pacakges #
+*.envrc
+*/__pycache__/
+*.pyc
+venv/
+*.ipynb_checkpoints*
+*.egg-info*
+*.log
+.env
+.env.bak
+*.dump*
+.idea/*
+
+# dbt #
+dbt/target/*
+dbt/dbt_packages/*
+dbt/logs/*
+
+# packages #
+*.tgz
+*.gz
+*.tar
+*.zip
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+
+# CSV files used as resources for tests should _not_ be ignored
+!tests/**/resources/**/*.csv
+.vscode/settings.json
+
+.python-version
+
+*.in
+*.IN
+
+# others #
+credentials.json
+*.img
+jobs_rendered
+*.csv

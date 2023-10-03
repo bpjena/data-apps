@@ -1,4 +1,5 @@
-- The app utilizes the [Knoema Real Estate Data Atlas from Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZSTZ491W11/knoema-real-estate-data-atlas) to allow users to compare the average single-family residence values and average rent (for all homes plus multi-family) between two cities in the United States for the past 12 months.  
-
+### 1. Real Estate Data Analysis
+  - The app utilizes the [Knoema Real Estate Data Atlas from Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZSTZ491W11/knoema-real-estate-data-atlas) 
+    - App allows users to <span style="color:green">**compare the average single-family residence prices and average rent between two cities** </span> in the United States for the past 12 months.
+    - <u>*additional usecase* </u>:  use [US Housing & Real Estate Essentials data from Cybersyn, Inc available on Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZTSZAS2KI6/cybersyn-inc-cybersyn-us-housing-real-estate-essentials) for <span style="color:green">**demographics overlay on housing prices**</span> for a correlated view
   - Reference blog [Building a Real Estate App with Snowflake Native App Framework](https://medium.com/snowflake/building-a-real-estate-app-with-snowflake-native-app-framework-68ee5d5ffe9a)
-  - The app also uses [Census and neighborhood data from Safegraph on Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZSNZ2UNN0/safegraph-us-open-census-data-neighborhood-insights-free-dataset) to present overlay analytics for a comparative view

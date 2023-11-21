@@ -1,0 +1,7 @@
+//drop the existing database, warehouse, and roles created under previous Watchkeeper Accelerator code using the following commands:
+
+USE ROLE ACCOUNTADMIN;
+DROP DATABASE MONITOR_DB;
+DROP ROLE MONITOR_ADMIN;
+DROP ROLE MONITOR_USER;
+DROP WAREHOUSE MONITOR_WH;

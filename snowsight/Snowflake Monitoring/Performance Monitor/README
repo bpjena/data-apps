@@ -1,0 +1,4 @@
+Please note that the Short and Long Queries Development Guide is only necessary if you need to create short and long queries dashboard. 
+For other dashboards that are focused on performance, you do not need to refer to the Short and Long Queries Development Guide.
+
+Therefore, if you are not creating a dashboard that is specifically focused on short and long queries, you do not need to go through this guide.

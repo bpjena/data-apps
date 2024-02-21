@@ -11,7 +11,7 @@ trigger:
 pool:
   vmImage: 'ubuntu-latest'
 variables:
-- group: demo-variables
+- group: snowflake-cicd-demo-21-Feb
 steps:
 - task: UsePythonVersion@0
   displayName: 'Use Python 3.8.x'
